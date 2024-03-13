@@ -1,10 +1,4 @@
-# 포토그램 - 인스타그램 클론 코딩
-
-### STS 툴 버그가 발견되면 다른 버전으로 다운 받는 법
-- https://github.com/spring-projects/sts4/wiki/Previous-Versions
-
-### STS 툴에 세팅하기 - 플러그인 설정 (JSP, Javascript)
-- https://blog.naver.com/getinthere/222322821611
+# 포토그램 - 인스타그램
 
 ### 의존성
 
